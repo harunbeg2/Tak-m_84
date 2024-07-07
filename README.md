@@ -6,3 +6,6 @@ NovaGenesis
 - Harun Sak(Product Owner)
 - Fatma Bilge Karakoç(Team Member/ Developer)
 - Fidan Cindoğlu(Team Member/ Developer)
+# Ürün İsmi
+Faster Than Doomsday
+# Ürün Açıklaması

@@ -17,3 +17,11 @@ Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda
 - Yaşça daha küçük oyuncular
 - Araba oyunlarından hoşlananlar
 - Bulmaca, genel kültür soruları veya problem çözmekten hoşlananlar 
+
+
+
+# SPRİNT 1
+
+Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak görseller kararlaştırılmıştır. Ardından belirli bir noktaya kadar ilerletilmiştir.
+
+![WhatsApp Görsel 2024-07-07 saat 21 43 28_69741831](https://github.com/HelloWorld2161/Tak-m_84/assets/143767177/82328cbd-75aa-42b7-bc0b-c7db44b606d0)

@@ -1,2 +1,2 @@
-Takım İsmi
+#Takım İsmi
 Takım 84

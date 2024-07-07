@@ -9,3 +9,11 @@ NovaGenesis
 # Ürün İsmi
 Faster Than Doomsday
 # Ürün Açıklaması
+Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda felaketler bir türlü peşimizi bırakmaz. Oyun boyunca oyunculara genel kültür, matematik, fen vb. birçok soru sorulur ve bu sorular üzerimize gelen felaketleri atlatmamızda bize yardımcı olur. Bu şekilde hem genel oynanıştan eğlence duyarken hem de bizi yeni şeyler öğrenmeye iter.
+# Ürün Özellikleri
+- 3D bir araba oyunu
+- Eğitim alanında kullanılabilecek bir oyun
+# Hedef Kitle
+- Yaşça daha küçük oyuncular
+- Araba oyunlarından hoşlananlar
+- Bulmaca, genel kültür soruları veya problem çözmekten hoşlananlar 

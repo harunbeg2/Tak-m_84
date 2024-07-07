@@ -1,2 +1,2 @@
-# Takim_84
+Takım İsmi
 Takım 84

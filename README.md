@@ -22,6 +22,13 @@ Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda
 
 # SPRİNT 1
 
-Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak görseller kararlaştırılmıştır. Ardından belirli bir noktaya kadar ilerletilmiştir.
+Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak görseller kararlaştırılmıştır. Projeye başlanmış ve oynanış belirli bir noktaya kadar oluşturulmuştur.
+
+# Gelinen Noktaya Dair Ekran Görüntüleri
 
 ![WhatsApp Görsel 2024-07-07 saat 21 43 28_69741831](https://github.com/HelloWorld2161/Tak-m_84/assets/143767177/82328cbd-75aa-42b7-bc0b-c7db44b606d0)
+
+![WhatsApp Görsel 2024-07-07 saat 21 43 29_8ba605ea](https://github.com/HelloWorld2161/Tak-m_84/assets/143767177/e18efbc4-d73a-4606-989a-5050d2971771)
+
+![WhatsApp Görsel 2024-07-07 saat 21 43 30_8dc608d4](https://github.com/HelloWorld2161/Tak-m_84/assets/143767177/f04f1b68-5eb3-4bd9-80a8-87533769874c)
+

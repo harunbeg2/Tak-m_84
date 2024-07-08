@@ -32,3 +32,8 @@ Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak
 
 ![WhatsApp Görsel 2024-07-07 saat 21 43 30_8dc608d4](https://github.com/HelloWorld2161/Tak-m_84/assets/143767177/f04f1b68-5eb3-4bd9-80a8-87533769874c)
 
+
+# Sprint Review:
+- Oyunun tarzı ve kullanılacak görseller kararlaştırılmıştır.
+- Oyun mekanikleri kararlaştırılmıştır.
+- Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak, Fatma Bilge Karakoç, Fidan Cindoğlu

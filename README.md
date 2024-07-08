@@ -37,3 +37,8 @@ Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak
 - Oyunun tarzı ve kullanılacak görseller kararlaştırılmıştır.
 - Oyun mekanikleri kararlaştırılmıştır.
 - Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak, Fatma Bilge Karakoç, Fidan Cindoğlu
+
+# Sprint Retrospective:
+- Scrum Master, Product Owner gibi roller belirlenip görev dağılımı yapıldı.
+- Boş zamanlarımıza göre bir toplantı çizelgesi oluşturuldu.
+- Oyunun ana mekaniği olan araba sürme kısmı oluşturuldu.

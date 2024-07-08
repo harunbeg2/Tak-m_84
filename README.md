@@ -1,5 +1,5 @@
 # Takım İsmi
-NovaGenesis
+Grup84
 # Ürün ile İlgili Bilgiler
 # Takım Elemanları
 - Hamit Aydoğdu(Scrum Master)

@@ -42,3 +42,7 @@ Sprint Notları: Oyunun genel mantığı, oynanış mekanikleri ve kullanılacak
 - Scrum Master, Product Owner gibi roller belirlenip görev dağılımı yapıldı.
 - Boş zamanlarımıza göre bir toplantı çizelgesi oluşturuldu.
 - Oyunun ana mekaniği olan araba sürme kısmı oluşturuldu.
+
+# SPRİNT 2
+
+Sprint Notları: Oyundaki bölümlerden 2 tanesi oluşturuldu. 

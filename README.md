@@ -73,7 +73,7 @@ Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda
 
 # Sprint Review: 
 - Yeni oyunun mekaniği ve oynanışı üzerine karar verildi. Hızlıca eksikler kapatılmaya çalışıldı.
-- Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak, Fatma Bilge Karakoç, Fidan Cindoğlu
+- Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak
 
 # Sprint Retrospective:
 - Sonraki projelerde zaman yönetimini daha iyi yapmamız gerektiği konuşuldu ve eksiklerimiz üzerine özeleştiri yapıldı.
